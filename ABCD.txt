@@ -1,0 +1,7 @@
+4
+Art  Business  Chemistry  Dentistry
+0   2.2   5  5
+2.2  0   5   6
+5  5  0   1.4
+5  6  1.4  0
+
